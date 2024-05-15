@@ -2,8 +2,8 @@
 
 A simple calculator developed using HTML, CSS, and JavaScript.
 
-<img src="Screnshoots/Desktop.png" width="1000" />
-<img src="Screnshoots/Mobile.jpeg" width="350" />
+<img src="Screenshoots/Desktop.png" width="1000" />
+<img src="Screenshoots/Mobile.jpeg" width="350" />
 
 ## Features
 
